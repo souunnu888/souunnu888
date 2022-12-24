@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/soujanya_rg" target="blank"><img src="https://img.shields.io/twitter/follow/soujanya_rg?logo=twitter&style=for-the-badge" alt="soujanya_rg" /></a> </p>
 
-- 🔭 I’m currently working on **Amazon Clone**
+- 🔭 I’m currently working on **Myntra Clone**
 
 - 🌱 I’m currently learning **react js and Backend tools**
 
