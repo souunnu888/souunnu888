@@ -1,15 +1,29 @@
-<h1 align="center">Hi 👋, I'm Soujanya RG</h1>
-<h3 align="center">A young, enthusiastic, self-learned, software developer from India.</h3>
+<h1>Hi 👋, I'm Soujanya RG</h1>
+<h3>A young, enthusiastic, self-learned, software developer from India.</h3>
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/soujanya-rg-a06503238)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=souunnu888&label=Profile%20views&color=0e75b6&style=flat" alt="souunnu888" /> </p>
+### Glad to see you here! 
 
-<p align="left"> <a href="https://twitter.com/soujanya_rg" target="blank"><img src="https://img.shields.io/twitter/follow/soujanya_rg?logo=twitter&style=for-the-badge" alt="soujanya_rg" /></a> </p>
+- 🔭 **Currently working on**: An **Amazon Clone project**
 
-- 🔭 I’m currently working on **Amazon Clone**
+- 🌱 **Currently learning**: Next.js, TypeScript, and serverless backend tools
 
-- 🌱 I’m currently learning **react js and Backend tools**
+- 🌟 I focus on dynamic **UI design, responsive layouts, and scalable backend solutions**.
 
-- 📫 How to reach me **soujanyasoujzzzz@gmail.com**
+- 📈 **Passionate about**: Transforming complex requirements into streamlined, efficient code
+
+- 🧩 Building UI components and handling data flow in React is my jam!
+
+- 👥 **Collaboration**: I work closely with Business Analysts to meet client-specific needs
+
+- 📫 How to reach me **soujanyarg71297@gmail.com**
+
+<hr>
+<h3 align="left">✨ Random Dev Quote::</h3>
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Dev Quote" />
+</p>
+<hr>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
