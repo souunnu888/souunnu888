@@ -3,19 +3,14 @@
 
 ### Glad to see you here! 
 
-- 🔭 **Currently working on**: An **Amazon Clone project**
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=iampavangandhi&label=Profile%20views&color=0e75b6&style=flat" alt="iampavangandhi" /> </p>
+I am a Full Stack Developer currently working at InsurePro 2.0 with a mission to revolutionize Tech side of Insurance business. 🚀
 
-- 🌱 **Currently learning**: Next.js, TypeScript, and serverless backend tools
+I have a passion for problem-solving and pioneering first-principle thinking, driven by purpose and fueled by the challenge of finding solutions, with a strong foundation in Javascript, Nodejs, MongoDB, React, Nextjs, AWS, etc. I focus on covering Frontend, Backend and DevOps and building scalable products from scratch with the commitment to making a positive impact through technology.
 
-- 🌟 I focus on dynamic **UI design, responsive layouts, and scalable backend solutions**.
+I'm an explorer of new tech, an avid learner, and a problem-solver at heart. When I'm not in code, you'll find me watching tech-related YouTube videos, fueling my curiosity.
 
-- 📈 **Passionate about**: Transforming complex requirements into streamlined, efficient code
-
-- 🧩 Building UI components and handling data flow in React is my jam!
-
-- 👥 **Collaboration**: I work closely with Business Analysts to meet client-specific needs
-
-- 📫 How to reach me **soujanyarg71297@gmail.com**
+Feel free to connect with me @souunnu888 for all things tech or just to say hello! Let's shape the future of tech together. 🌟
 
 <hr>
 <h3 align="left">✨ Random Dev Quote::</h3>
