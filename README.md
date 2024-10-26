@@ -19,6 +19,22 @@ Feel free to connect with me @souunnu888 for all things tech or just to say hell
 </p>
 <hr>
 
+<img align="right" height="250" width="375" alt="" src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/coder.gif" />
+
+### Talking about Personal Stuff:
+
+- 🔭 **Currently working on**: An Amazon Clone project
+
+- 🌱 **Currently learning**: Next.js, TypeScript, and serverless backend tools
+
+- 🌟 **Focus Areas**:
+   Dynamic UI design, responsive layouts, and scalable backend solutions
+   Building UI components and handling data flow in React
+
+- 📈 **Passionate about**: Transforming complex requirements into streamlined, efficient code
+
+- 👥 **Collaboration**: I work closely with Business Analysts to meet client-specific needs
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/souunnu888" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="souunnu888" height="30" width="40" /></a>
