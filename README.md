@@ -1,6 +1,5 @@
 <h1>Hi 👋, I'm Soujanya RG</h1>
 <h3>A young, enthusiastic, self-learned, software developer from India.</h3>
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0e76a8?style=flat-square&logo=Linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/soujanya-rg-a06503238)
 
 ### Glad to see you here! 
 
